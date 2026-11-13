@@ -15,3 +15,5 @@ Proposit: actua com un servei public d'almazenament en al nuve que permet guarda
 Target: el target de Drive es per cualquier persona que vulgi ajotgar material en la nube a més es molt economic perque es gratis, es molt practic per us educatiu i corporatiu per empreses petites.  
 
 Eina: Classroom
+
+Poposit: 
