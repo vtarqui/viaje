@@ -20,4 +20,6 @@ Poposit: serveix com un espaism de treball, es molt practic pels profesor perque
 
 Targe: es una eina indispensatble pel l'us educatiu, tant destudiants com de profesors.
 
-Eina: 
+Eina: Yotube
+
+Proposit: yotube serveix com medi de comuc¡nicació, es un lloc public on pots pullar videos i la gents et pot apoya amb likes o subcripcion, si arribes a un numero minim de seguidors pots rebre una insignia de verificació per poder guanyar diners amb Yotube, es molt util per buscar informació, escoltar musica i oci com veure jugar algu 
