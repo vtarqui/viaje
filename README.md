@@ -16,4 +16,8 @@ Target: el target de Drive es per cualquier persona que vulgi ajotgar material e
 
 Eina: Classroom
 
-Poposit: 
+Poposit: serveix com un espaism de treball, es molt practic pels profesor perque poden inserir desde tramese, videos, pdfs, sites, etc. Classroom compte amb un calendari que mostrar anuncis i trameses. Els profesor poden evaluar les trameses des de classroom i tambe poden posar notas. Les trameses entregades fora del temps encomenat no es poden acceptar.
+
+Targe: es una eina indispensatble pel l'us educatiu, tant destudiants com de profesors.
+
+Eina: 
