@@ -49,4 +49,10 @@ Llistat de sis eines de Google amb proposit public.
 
 IMAP mante els misatges al servidor i els sincronitza entre tots els dispositius, mentre que POP3 els descarrega d'un unic dispositiu, i per defecte els borra del servido.
 
-### **1.2. Com crear una etiqueta.** 
+### **1.2. Com crear una etiqueta i inserir un color.** 
+
+Per crear la plantilla prIme em daccedir al nostre comte de Gamil al ordinador, en dentrar  a l'esquera i abixar fins trobar l'apartat **Etiquetes**, has de fer clic al simbol **+** que apareix al costat de etiquetes, sobrira un quadre aqui em de posar el nom de letiquieta, **istitut** i per ultim cliquem en crear per acaba.
+
+I ha un apartat abaix del nom de l'etiqueta que ens permet situar on volem crear l'etiqueta, es molt util per organitzar la safata dentrada.
+
+[![Captura-de-pantalla-de-2026-11-20-12-10-10.png](https://i.postimg.cc/5ybcDV0k/Captura-de-pantalla-de-2026-11-20-12-10-10.png)](https://postimg.cc/HcZP7FbQ)
