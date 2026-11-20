@@ -47,4 +47,4 @@ Llistat de sis eines de Google amb proposit public.
 
 1.1. Quina diferencia hi ha entre IMAP i POP3.
 
-
+IMAP mante els misatges al servidor i els sincronitza entre tots els dispositius, mentre que POP3 els descarrega d'un unic dispositiu, i per defecte els borra del servido.
