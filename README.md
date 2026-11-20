@@ -2,7 +2,7 @@
 
 # Organitzar un viatge amb Google
 
-1 El correu
+**1 El correu**
 
 
 Llistat de sis eines de Google amb proposit public.
@@ -43,3 +43,5 @@ Eina: Google Maps.
 Proposit: nos ayuada a orientarnos, calcular rutas en tiempo real i descubrir lugares nuevo mediante mapas digitales interactivos.
 
 Target: esta disponible per cualsebol persona que bulgui buscar un lloc en el mapa.
+
+
