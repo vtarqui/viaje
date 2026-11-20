@@ -45,3 +45,4 @@ Proposit: nos ayuada a orientarnos, calcular rutas en tiempo real i descubrir lu
 Target: esta disponible per cualsebol persona que bulgui buscar un lloc en el mapa.
 
 
+1.1. Quina diferencia hi ha entre IMAP i POP3.
