@@ -45,6 +45,6 @@ Llistat de sis eines de Google amb proposit public.
 **-Target:** esta disponible per cualsebol persona que bulgui buscar un lloc en el mapa.
 
 
-1.1. Quina diferencia hi ha entre IMAP i POP3.
+### **1.1. Quina diferencia hi ha entre IMAP i POP3.**
 
 IMAP mante els misatges al servidor i els sincronitza entre tots els dispositius, mentre que POP3 els descarrega d'un unic dispositiu, i per defecte els borra del servido.
