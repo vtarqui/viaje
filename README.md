@@ -2,7 +2,7 @@
 
 # Organitzar un viatge amb Google
 
-Gmail 
+# 1 El correu
 
 
 Llistat de sis eines de Google amb proposit public.
