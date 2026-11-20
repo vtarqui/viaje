@@ -65,5 +65,5 @@ Per inserir un color em de buscar letiqueta que em crat, al final del nom hi han
 
 Per crear un filtre en danar a la roda dentada, aqui em dentrar a **Mostra tota la configuració**, a dins em d'anar a **Filtres i adreçes bloquejades** i per ultim em dentra en **Crea un filtre**. Adins em descriure en **Conté les paraules per quan** la paraula puig per quan consideixin, per finalitzar nomes as de fer clic en **Crear un filtre**.
 
-[![Captura-de-pantalla-de-2026-11-20-13-41-12.png](https://i.postimg.cc/g0mFjh83/Captura-de-pantalla-de-2026-11-20-13-41-12.png)](https://postimg.cc/RWsbbNP0)
+[![Captura-de-pantalla-de-2026-11-20-14-07-09.png](https://i.postimg.cc/76b2vfBt/Captura-de-pantalla-de-2026-11-20-14-07-09.png)](https://postimg.cc/sQdX7DC5)
 
