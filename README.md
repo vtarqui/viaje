@@ -67,3 +67,5 @@ Per crear un filtre en danar a la roda dentada, aqui em dentrar a **Mostra tota 
 
 [![Captura-de-pantalla-de-2026-11-20-14-07-09.png](https://i.postimg.cc/76b2vfBt/Captura-de-pantalla-de-2026-11-20-14-07-09.png)](https://postimg.cc/sQdX7DC5)
 
+Ara em de tria que a de fer, per fer aixo en **Aplica l'etiqueta** em descolli **institut**.
+
