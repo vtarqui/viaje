@@ -55,7 +55,7 @@ Per crear la plantilla prIme em daccedir al nostre comte de Gamil al ordinador, 
 
 I ha un apartat abaix del nom de l'etiqueta que ens permet situar on volem crear l'etiqueta, es molt util per organitzar la safata dentrada.
 
-[![Captura-de-pantalla-de-2026-11-20-12-10-10-(editat).png](https://i.postimg.cc/T2Fgj3KR/Captura-de-pantalla-de-2026-11-20-12-10-10-(editat).png)](https://postimg.cc/5j5Xb15G)
+[![Captura-de-pantalla-de-2026-11-20-12-10-10-(editat).png](https://i.postimg.cc/PrdKcMbH/Captura-de-pantalla-de-2026-11-20-12-10-10-(editat).png)](https://postimg.cc/4nFzHVF2)
 
 Per inserir un color em de buscar letiqueta que em crat, al final del nom hi han tres punts en vertical, fem clic i adins seleccionem **Color de l'etiqueta**, i tries el color que més tagradi en el meu cas yo posare el colo verd.
 
