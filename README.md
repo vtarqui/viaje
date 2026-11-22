@@ -93,7 +93,7 @@ Aquesta part es important perque canvia respecte al primer filtre, prime em de m
 
 Proves de que sa creat correctament.
 
-<img width="2000" height="995" alt="Disseny sense títol (16)" src="https://github.com/user-attachments/assets/b16567c1-948a-4dc6-9192-393493b6e207" />
+<img width="2000" height="650" alt="Disseny sense títol (20)" src="https://github.com/user-attachments/assets/480d757d-ef0a-4c9b-9ec6-05847d2bdc87" />
 
 Crae un filtre per tenir dos profesor com importants.
 
