@@ -77,3 +77,8 @@ Proves de que sa creat correctament.
 
 <img width="2000" height="839" alt="Disseny sense títol (13)" src="https://github.com/user-attachments/assets/67b80a78-5308-469c-a4f1-d5ad5ed58616" />
 
+Filtre: publicitat
+
+Per poder crear el filtre publicitat prime em de crear la etiqueta promocions. Em de fer el mateix que amb l'etiqueta institut.
+
+<img width="1876" height="953" alt="Captura de pantalla 2026-11-22 172113" src="https://github.com/user-attachments/assets/f448f073-3343-4b39-b452-7dc66c85a4f5" />
