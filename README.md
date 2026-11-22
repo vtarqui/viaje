@@ -83,4 +83,8 @@ Per poder crear el filtre publicitat prime em de crear la etiqueta promocions. E
 
 <img width="1876" height="953" alt="Captura de pantalla 2026-11-22 172113" src="https://github.com/user-attachments/assets/f448f073-3343-4b39-b452-7dc66c85a4f5" />
 
-Amb l'etiqueta creada lla podem crear el filtre, 
+Amb l'etiqueta creada lla podem crear el filtre, em de fer clic a les barras al final de la barra de busqueda i em posar **publicitat** en **Conté les paraules** i per ultim clica en **Crea un filtre**.
+
+<img width="2000" height="1123" alt="Disseny sense títol (14)" src="https://github.com/user-attachments/assets/56f80317-3653-4d16-a3bc-7ae11bcf1f78" />
+
+ 
