@@ -79,6 +79,8 @@ Proves de que sa creat correctament.
 
 Filtre: publicitat
 
-Per poder crear el filtre publicitat prime em de crear la etiqueta promocions. Em de fer el mateix que amb l'etiqueta institut.
+Per poder crear el filtre publicitat prime em de crear la etiqueta promocions. Em de seguir els mateixos pasos que amb l'etiqueta institut.
 
 <img width="1876" height="953" alt="Captura de pantalla 2026-11-22 172113" src="https://github.com/user-attachments/assets/f448f073-3343-4b39-b452-7dc66c85a4f5" />
+
+Amb l'etiqueta creada lla podem crear el filtre, 
