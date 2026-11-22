@@ -101,6 +101,8 @@ Per crear aquests dos ultims filtres em dentrar a **Crea un filtre**, a dins en 
 
 <img width="2000" height="989" alt="Disseny sense títol (17)" src="https://github.com/user-attachments/assets/662e5170-07ed-4a4b-a649-af101d0d29b7" />
 
+
+
 Per ultim em de crear una resposta automatca de vacanses amb **Estic de vacances**.
 
 Per comença en Gmail em dentrar a la roda dentada, y pulsa en mostra tota la configuració. A dins em dentrar a la pestanya **General**, a dins em de baixar fins trobar l'apartat **Resposta automàtica:**. Aqui em de marca l'opció **Resposta automàtica activada** i en el cuadre gran on posa **Missatge** em de posar **Estic de vacances!**. Per ultim baixem abaix i cilcem en  **Desa els canvis**.
