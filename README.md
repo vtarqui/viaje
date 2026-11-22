@@ -100,3 +100,9 @@ Crae un filtre per tenir dos profesor com importants.
 Per crear aquests dos ultims filtres em dentrar a **Crea un filtre**, a dins en la primera linia **De:** em descriure el correu dels dos docents, yo posare el coreu de la meva tutora Kari, **caridadcastillo@elpuig.xeill.net** i l'altre sera la del docent d'aplicacions web Ruben, **rusben@elpuig.xeill.net**, entre els dos correus em de posar OR important. Despres em de fer clic a **Crea un filtre** i em de marca l'octava opció **Marca sempre com a important** i l'ultima opció **Aplica també el filtre a 13 converses coincidents**. I Per finalitzar cliquem en **Crea filtre**.
 
 <img width="2000" height="989" alt="Disseny sense títol (17)" src="https://github.com/user-attachments/assets/662e5170-07ed-4a4b-a649-af101d0d29b7" />
+
+Per ultim em de crear una resposta automatca de vacanses amb **Estic de vacances**.
+
+Per comença en Gmail em dentrar a la roda dentada, y pulsa en mostra tota la configuració. A dins em dentrar a la pestanya **General**, a dins em de baixar fins trobar l'apartat **Resposta automàtica:**. Aqui em de marca l'opció **Resposta automàtica activada** i en el cuadre gran on posa **Missatge** em de posar **Estic de vacances!**. Per ultim baixem abaix i cilcem en  **Desa els canvis**.
+
+<img width="2000" height="1012" alt="Disseny sense títol (18)" src="https://github.com/user-attachments/assets/ca7a4da8-a337-413c-9b5c-65b6f76e54fc" />
