@@ -91,4 +91,7 @@ Aquesta part es important perque canvia respecte al primer filtre, prime em de m
  
 <img width="1997" height="1010" alt="Disseny sense títol (15)" src="https://github.com/user-attachments/assets/15e619d5-41d3-4c1e-8954-03870eaa0b28" />
 
+Proves de que sa creat correctament.
+
+<img width="2000" height="995" alt="Disseny sense títol (16)" src="https://github.com/user-attachments/assets/b16567c1-948a-4dc6-9192-393493b6e207" />
 
