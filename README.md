@@ -112,5 +112,6 @@ Proves de que funciona.
 
 <img width="1874" height="952" alt="Captura de pantalla 2026-11-22 193237" src="https://github.com/user-attachments/assets/52156eaa-120b-405f-a5d8-b9480e3d6226" />
 
+
 Taula de proves: https://drive.google.com/file/d/1XVd-JeufIk1R_SyhLZSw1VNUjncf_hbP/view?usp=sharing
 
