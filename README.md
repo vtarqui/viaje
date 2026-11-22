@@ -73,4 +73,7 @@ Un cop creat el filtre sobrira llista per ecollir que fer amb els correus, em de
  
 <img width="1995" height="1004" alt="Disseny sense títol (12)" src="https://github.com/user-attachments/assets/865616ee-9785-4b49-a71b-a05651122003" />
 
+Proves de que sa creat correctament.
+
+<img width="2000" height="839" alt="Disseny sense títol (13)" src="https://github.com/user-attachments/assets/67b80a78-5308-469c-a4f1-d5ad5ed58616" />
 
