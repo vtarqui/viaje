@@ -106,3 +106,7 @@ Per ultim em de crear una resposta automatca de vacanses amb **Estic de vacances
 Per comença en Gmail em dentrar a la roda dentada, y pulsa en mostra tota la configuració. A dins em dentrar a la pestanya **General**, a dins em de baixar fins trobar l'apartat **Resposta automàtica:**. Aqui em de marca l'opció **Resposta automàtica activada** i en el cuadre gran on posa **Missatge** em de posar **Estic de vacances!**. Per ultim baixem abaix i cilcem en  **Desa els canvis**.
 
 <img width="2000" height="1012" alt="Disseny sense títol (18)" src="https://github.com/user-attachments/assets/ca7a4da8-a337-413c-9b5c-65b6f76e54fc" />
+
+Proves de que funciona.
+
+<img width="1874" height="952" alt="Captura de pantalla 2026-11-22 193237" src="https://github.com/user-attachments/assets/52156eaa-120b-405f-a5d8-b9480e3d6226" />
