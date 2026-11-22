@@ -55,7 +55,7 @@ Per crear la plantilla prIme em daccedir al nostre comte de Gamil al ordinador, 
 
 I ha un apartat abaix del nom de l'etiqueta que ens permet situar on volem crear l'etiqueta, es molt util per organitzar la safata dentrada.
 
-[![Captura-de-pantalla-de-2026-11-20-12-10-10.png](https://i.postimg.cc/PrdKcMbH/Captura-de-pantalla-de-2026-11-20-12-10-10-(editat).png)](https://postimg.cc/4nFzHVF2)
+[![Captura-de-pantalla-de-2026-11-20-12-10-10-(editat).png](https://i.postimg.cc/PrdKcMbH/Captura-de-pantalla-de-2026-11-20-12-10-10-(editat).png)](https://postimg.cc/4nFzHVF2)
 
 Per inserir un color em de buscar letiqueta que em crat, al final del nom hi han tres punts en vertical, fem clic i adins seleccionem **Color de l'etiqueta**, i tries el color que més tagradi en el meu cas yo posare el colo verd.
 
@@ -65,7 +65,11 @@ Per inserir un color em de buscar letiqueta que em crat, al final del nom hi han
 
 Per crear un filtre en danar a la roda dentada, aqui em dentrar a **Mostra tota la configuració**, a dins em d'anar a **Filtres i adreçes bloquejades** i per ultim em dentra en **Crea un filtre**. Adins em descriure en **Conté les paraules per quan** la paraula puig per quan consideixin, per finalitzar nomes as de fer clic en **Crear un filtre**.
 
+Filtre: puig
+
 [![Captura-de-pantalla-de-2026-11-20-14-07-09.png](https://i.postimg.cc/76b2vfBt/Captura-de-pantalla-de-2026-11-20-14-07-09.png)](https://postimg.cc/sQdX7DC5)
 
-Ara em de tria que a de fer, per fer aixo en **Aplica l'etiqueta** em descolli **institut**.
+Un cop creat el filtre sobrira llista per ecollir que fer amb els correus, em de marca **Aplica l'etiqueta**, al costat em de selecciona **institut** i per ultim abaix em de marca l'ultima opció **Aplica també el filtre a les converses coincidents**, un cop acabat pulsem el boto **Crea un filtre** per finalitzar. 
+ 
+<img width="2000" height="1414" alt="Disseny sense títol (12)" src="https://github.com/user-attachments/assets/a44fc7ac-bea0-4c0f-9393-4a3af8585f85" />
 
