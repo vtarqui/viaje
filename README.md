@@ -71,5 +71,6 @@ Filtre: puig
 
 Un cop creat el filtre sobrira llista per ecollir que fer amb els correus, em de marca **Aplica l'etiqueta**, al costat em de selecciona **institut** i per ultim abaix em de marca l'ultima opció **Aplica també el filtre a les converses coincidents**, un cop acabat pulsem el boto **Crea un filtre** per finalitzar. 
  
-<img width="2000" height="1414" alt="Disseny sense títol (12)" src="https://github.com/user-attachments/assets/a44fc7ac-bea0-4c0f-9393-4a3af8585f85" />
+<img width="1995" height="1004" alt="Disseny sense títol (12)" src="https://github.com/user-attachments/assets/865616ee-9785-4b49-a71b-a05651122003" />
+
 
