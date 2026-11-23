@@ -119,4 +119,7 @@ Taula de proves: https://drive.google.com/file/d/1XVd-JeufIk1R_SyhLZSw1VNUjncf_h
 
 Primer em de confirmar que IMAP esta activat, per aixo hem d'entrar a Gamil, a dins anem a configuracions aqui em dentrar a mostra tota la confguració i per ultim em daccedir a **Reenviament i POP/IMAP**.
 
-En aquesta part podem veure que no es pot activar el IMAP perque lla bé activat per defecte i el administrador no permet fer canvis.
+En aquesta part podem observa que no es pot activar l'acces IMAP perque lla bé activat per defecte i el administrador no permet fer canvis.
+
+<img width="2000" height="1012" alt="Disseny sense títol (21)" src="https://github.com/user-attachments/assets/1706e8d8-f794-4548-ba57-e7ad4856a786" />
+
