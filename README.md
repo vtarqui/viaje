@@ -133,5 +133,45 @@ Primer hem d'obrir dos comtes de Gmail diferents una d'aquestes a de ser la nost
 
 Segont desde la primera conta personal em denvia un misatge a la segona compte amb la paura **puig** per activar el filtre.
 
-<img width="1874" height="955" alt="Captura de pantalla 2026-11-23 214515" src="https://github.com/user-attachments/assets/a768d3c7-2683-4593-997a-c0b0d6b5578a" />
+<img width="1874" height="947" alt="Captura de pantalla 2026-11-23 215121" src="https://github.com/user-attachments/assets/6eede067-5c39-4b92-bf85-fe10917b227a" />
+
+Ara hem de comprovar en la nostra bandeja d'entrada del Puig Castellar i comprovar que aparaix l'etiqueta **puig**.
+
+<img width="1872" height="952" alt="Captura de pantalla 2026-11-23 215619" src="https://github.com/user-attachments/assets/e03336b9-8ad4-4790-b391-4d6eb1776951" />
+
+**2.3. Finalment desde la segona sessio em de respondre el misatge per comprovar que arriba correctament a la compte de Gamil personal**.
+
+<img width="1874" height="955" alt="Captura de pantalla 2026-11-23 220211" src="https://github.com/user-attachments/assets/5bf3786f-7a92-47e3-8862-d3771d83e3cf" />
+
+**2.4. En el misatge original que diuen SPF, DKIM i MARCK**.
+
+Per axedi a aquesta part em d'accedir al misatge rebut i prenem els tres punts de la capçalera, aqui tria l'opció **Mostra l'original**, sobrira una pagina amb les dades del misatge.
+
+<img width="2000" height="1004" alt="Disseny sense títol (23)" src="https://github.com/user-attachments/assets/81f42542-8e9a-4c12-8fa3-2ef0e7c6ba94" />
+
+A dins de mistge original podem obserba que:
+
+SPF: te PASS
+DKIM: te PASS
+DMARC: te PAS
+
+Imatge que reafirme les dades:
+
+<img width="2000" height="564" alt="Disseny sense títol (24)" src="https://github.com/user-attachments/assets/12d7c49c-c080-44ac-848a-ec90a40b5c88" />
+
+**2.5. Finalment hem de localitza les línies **Received**.
+
+Aquesta apartat es situat sobte el Misastge original, hi han moltes linies de text pero nosaltres nomes em de ficsarnos en les linias 2, 13 i 16. 
+
+<img width="2000" height="1018" alt="Disseny sense títol (27)" src="https://github.com/user-attachments/assets/f91effb4-21ef-43b8-9daa-5bab4fe3a485" />
+
+En la imatge es pot observa que el missatge a passat per 3 servidors:
+
+Prime servidor MX / SMTP entrada, situada en la linia 13: from mail-sor-f41.google.com... by mx.google.com...
+
+Segon servidor SMPT lliurament del missatge, situat en la linia 2: by 2002:a05:7110:204f:b0:36c:eea6:fbe1...
+
+Tercera linia autentificació completa, situat en la linia 16: mx.google.com; dkim=pass... spf=pass... dmarc=pass
+
+**2.6. Taula de proves de tot Compror l'acces**
 
