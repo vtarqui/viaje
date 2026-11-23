@@ -127,7 +127,7 @@ Ara em de crear la taula amb els parametre de cada servei
 
 <img width="797" height="615" alt="Captura de pantalla 2026-11-23 212548" src="https://github.com/user-attachments/assets/d41770a8-c499-401e-8afb-ff66543591da" />
 
-**2.2. Prova de que funciona correctamen el mistage entre dos correus diferents.
+**2.2. Prova de que funciona correctamen el mistage entre dos correus diferents**.
 
 Primer hem d'obrir dos comtes de Gmail diferents una d'aquestes a de ser la nostra compta perosnal i la segona la del Puig Castella.
 
