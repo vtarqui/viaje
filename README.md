@@ -115,7 +115,7 @@ Taula de proves: https://drive.google.com/file/d/1XVd-JeufIk1R_SyhLZSw1VNUjncf_h
 
 ### **Fase 2 comprovar l'accés**
 
-**1.1. Mirem si l'acces IMAP és actiu i fes una taula amb els parèmetres de cada servei.**
+**2.1. Mirem si l'acces IMAP és actiu i fes una taula amb els parèmetres de cada servei.**
 
 Primer em de confirmar que IMAP esta activat, per aixo hem d'entrar a Gamil, a dins anem a configuracions aqui em dentrar a mostra tota la confguració i per ultim em daccedir a **Reenviament i POP/IMAP**.
 
@@ -125,5 +125,13 @@ En aquesta part podem observa que no es pot activar l'acces IMAP perque lla bé 
 
 Ara em de crear la taula amb els parametre de cada servei 
 
-<img width="2000" height="1012" alt="Disseny sense títol (21)" src="https://github.com/user-attachments/assets/3d477a28-78c6-4103-84da-49cdc609a5da" />
+<img width="797" height="615" alt="Captura de pantalla 2026-11-23 212548" src="https://github.com/user-attachments/assets/d41770a8-c499-401e-8afb-ff66543591da" />
+
+**2.2. Prova de que funciona correctamen el mistage entre dos correus diferents.
+
+Primer hem d'obrir dos comtes de Gmail diferents una d'aquestes a de ser la nostra compta perosnal i la segona la del Puig Castella.
+
+Segont desde la primera conta personal em denvia un misatge a la segona compte amb la paura **puig** per activar el filtre.
+
+<img width="1874" height="955" alt="Captura de pantalla 2026-11-23 214515" src="https://github.com/user-attachments/assets/a768d3c7-2683-4593-997a-c0b0d6b5578a" />
 
