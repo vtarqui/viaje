@@ -123,3 +123,7 @@ En aquesta part podem observa que no es pot activar l'acces IMAP perque lla bé 
 
 <img width="2000" height="1012" alt="Disseny sense títol (21)" src="https://github.com/user-attachments/assets/1706e8d8-f794-4548-ba57-e7ad4856a786" />
 
+Ara em de crear la taula amb els parametre de cada servei 
+
+<img width="2000" height="1012" alt="Disseny sense títol (21)" src="https://github.com/user-attachments/assets/3d477a28-78c6-4103-84da-49cdc609a5da" />
+
