@@ -113,3 +113,10 @@ Proves de què funciona.
 
 Taula de proves: https://drive.google.com/file/d/1XVd-JeufIk1R_SyhLZSw1VNUjncf_hbP/view?usp=sharing
 
+### **Fase 2 comprovar l'accés**
+
+**1.1. Mirem si l'acces IMAP és actiu i fes una taula amb els parèmetres de cada servei.**
+
+Primer em de confirmar que IMAP esta activat, per aixo hem d'entrar a Gamil, a dins anem a configuracions aqui em dentrar a mostra tota la confguració i per ultim em daccedir a **Reenviament i POP/IMAP**.
+
+En aquesta part podem veure que no es pot activar el IMAP perque lla bé activat per defecte i el administrador no permet fer canvis.
