@@ -177,3 +177,4 @@ Tercera línia autentificació completa, situat en la línia 16: mx.google.com; 
 
 **2.6. Taula de proves**
 
+Aqui he creat una taula amb tots els filtre i respostes automatiques. 
