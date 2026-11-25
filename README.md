@@ -1,4 +1,4 @@
-[![Captura-de-pantalla-de-2026-11-13-13-43-05-removebg-preview.png](https://i.postimg.cc/pdLGMFfc/Captura-de-pantalla-de-2026-11-13-13-43-05-removebg-preview.png)](https://postimg.cc/G46Jk9Sv)
+<img width="1920" height="1080" alt="Captura de pantalla (1)" src="https://github.com/user-attachments/assets/09d8f020-ad98-4c95-99eb-32c380bea6cd" />[![Captura-de-pantalla-de-2026-11-13-13-43-05-removebg-preview.png](https://i.postimg.cc/pdLGMFfc/Captura-de-pantalla-de-2026-11-13-13-43-05-removebg-preview.png)](https://postimg.cc/G46Jk9Sv)
 
 # Organitzar un viatge amb Google
 
@@ -177,4 +177,9 @@ Tercera línia autentificació completa, situat en la línia 16: mx.google.com; 
 
 **2.6. Taula de proves**
 
-Aqui he creat una taula amb tots els filtre i respostes automatiques. 
+Aquí he creat una taula d'almenys deu files, amb els filtres i la resposta automàtica. 
+
+<img width="1920" height="1080" alt="Captura de pantalla (1)" src="https://github.com/user-attachments/assets/5294922d-7690-475d-950a-6acfea19d1cc" />
+
+<img width="1920" height="1080" alt="Captura de pantalla (2)" src="https://github.com/user-attachments/assets/f6e35083-9a25-4ec7-9c8a-29010f5b98c2" />
+
