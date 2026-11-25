@@ -1,4 +1,5 @@
-preview.png](https://i.postimg.cc/pdLGMFfc/Captura-de-pantalla-de-2026-11-13-13-43-05-removebg-preview.png)](https://postimg.cc/G46Jk9Sv)
+<img width="200" height="200" alt="55f6ecefd62ca30003594eec828c7a40" src="https://github.com/user-attachments/assets/d133414f-b12b-4275-b4c9-844f403db8a9" />
+
 
 # Organitzar un viatge amb Google
 
