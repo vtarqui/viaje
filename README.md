@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Captura de pantalla (1)" src="https://github.com/user-attachments/assets/09d8f020-ad98-4c95-99eb-32c380bea6cd" />[![Captura-de-pantalla-de-2026-11-13-13-43-05-removebg-preview.png](https://i.postimg.cc/pdLGMFfc/Captura-de-pantalla-de-2026-11-13-13-43-05-removebg-preview.png)](https://postimg.cc/G46Jk9Sv)
+preview.png](https://i.postimg.cc/pdLGMFfc/Captura-de-pantalla-de-2026-11-13-13-43-05-removebg-preview.png)](https://postimg.cc/G46Jk9Sv)
 
 # Organitzar un viatge amb Google
 
