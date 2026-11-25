@@ -115,63 +115,65 @@ Taula de proves: https://drive.google.com/file/d/1XVd-JeufIk1R_SyhLZSw1VNUjncf_h
 
 ### **Fase 2 comprovar l'accés**
 
-**2.1. Mirem si l'acces IMAP és actiu i fes una taula amb els parèmetres de cada servei.**
+**2.1. Mirem si l'accés IMAP és actiu i fes una taula amb els paràmetres de cada servei.**
 
-Primer em de confirmar que IMAP esta activat, per aixo hem d'entrar a Gamil, a dins anem a configuracions aqui em dentrar a mostra tota la confguració i per ultim em daccedir a **Reenviament i POP/IMAP**.
+Primer hem de confirmar que IMAP està activat, per això hem d'entrar a Gmail, a dins anem a configuracions aquí hem d'entrar a mostra tota la configuració i per últim hem d'accedir a **Reenviament i POP/IMAP**.
 
-En aquesta part podem observa que no es pot activar l'acces IMAP perque lla bé activat per defecte i el administrador no permet fer canvis.
+En aquesta part podem observar que no es pot activar l'accés IMAP perquè lla ve activat per defecte i l'administrador no permet fer canvis.
 
 <img width="2000" height="1012" alt="Disseny sense títol (21)" src="https://github.com/user-attachments/assets/1706e8d8-f794-4548-ba57-e7ad4856a786" />
 
-Ara em de crear la taula amb els parametre de cada servei 
+Ara hem de crear la taula amb els paràmetres de cada servei. 
 
 <img width="797" height="615" alt="Captura de pantalla 2026-11-23 212548" src="https://github.com/user-attachments/assets/d41770a8-c499-401e-8afb-ff66543591da" />
 
-**2.2. Prova de que funciona correctamen el mistage entre dos correus diferents**.
+**2.2. Prova que funciona correctament el missatge entre dos correus diferents**.
 
-Primer hem d'obrir dos comtes de Gmail diferents una d'aquestes a de ser la nostra compta perosnal i la segona la del Puig Castella.
+Primer hem d'obrir dos comtes de Gmail diferents una d'aquestes ha de ser la nostra compta personal i la segona la del Puig Castella.
 
-Segont desde la primera conta personal em denvia un misatge a la segona compte amb la paura **puig** per activar el filtre.
+Segona, des de la primera conta personal hem d'enviar un missatge a la segona compte amb la paraula **puig** per activar el filtre.
 
 <img width="1874" height="947" alt="Captura de pantalla 2026-11-23 215121" src="https://github.com/user-attachments/assets/6eede067-5c39-4b92-bf85-fe10917b227a" />
 
-Ara hem de comprovar en la nostra bandeja d'entrada del Puig Castellar i comprovar que aparaix l'etiqueta **puig**.
+Ara hem de comprovar en la nostra bandeja d'entrada del Puig Castellar i comprovar que apareix l'etiqueta **puig**.
 
 <img width="1872" height="952" alt="Captura de pantalla 2026-11-23 215619" src="https://github.com/user-attachments/assets/e03336b9-8ad4-4790-b391-4d6eb1776951" />
 
-**2.3. Finalment desde la segona sessio em de respondre el misatge per comprovar que arriba correctament a la compte de Gamil personal**.
+**2.3. Finalment, des de la segona sessió hem de respondre al missatge per comprovar que arriba correctament al compte de Gmail personal.**
 
 <img width="1874" height="955" alt="Captura de pantalla 2026-11-23 220211" src="https://github.com/user-attachments/assets/5bf3786f-7a92-47e3-8862-d3771d83e3cf" />
 
-**2.4. En el misatge original que diuen SPF, DKIM i MARCK**.
+**2.4. En el missatge original que diuen SPF, DKIM i MARCK.**
 
-Per axedi a aquesta part em d'accedir al misatge rebut i prenem els tres punts de la capçalera, aqui tria l'opció **Mostra l'original**, sobrira una pagina amb les dades del misatge.
+Per accedir a aquesta part hem d'accedir al missatge rebut i prenem els tres punts de la capçalera, aquí tria l'opció **Mostra l'original**, sobrira una pàgina amb les dades del missatge.
 
 <img width="2000" height="1004" alt="Disseny sense títol (23)" src="https://github.com/user-attachments/assets/81f42542-8e9a-4c12-8fa3-2ef0e7c6ba94" />
 
-A dins de mistge original podem obserba que:
+A dins de missatge original podem observar que:
 
-SPF: te PASS
-DKIM: te PASS
-DMARC: te PAS
+SPF: té PASS
 
-Imatge que reafirme les dades:
+DKIM: té PASS
+
+DMARC: té PASS
+
+Imatge que reafirma les dades:
 
 <img width="2000" height="564" alt="Disseny sense títol (24)" src="https://github.com/user-attachments/assets/12d7c49c-c080-44ac-848a-ec90a40b5c88" />
 
-**2.5. Finalment hem de localitza les línies **Received**.
+**2.5. Finalment hem de localitzar les línies **Received**.
 
-Aquesta apartat es situat sobte el Misastge original, hi han moltes linies de text pero nosaltres nomes em de ficsarnos en les linias 2, 13 i 16. 
+Aquest apartat és situat de sobte del Missatge original, hi ha moltes línies de text, però nosaltres només hem de fixar-nos en les línies 2, 13 i 16. 
 
 <img width="2000" height="1018" alt="Disseny sense títol (27)" src="https://github.com/user-attachments/assets/f91effb4-21ef-43b8-9daa-5bab4fe3a485" />
 
-En la imatge es pot observa que el missatge a passat per 3 servidors:
+En la imatge es pot observar que el missatge ha passat per 3 servidors:
 
-Prime servidor MX / SMTP entrada, situada en la linia 13: from mail-sor-f41.google.com... by mx.google.com...
+Primer servidor MX / SMTP port situat en la línia 13: from mail-sor-f41.google.com... by mx.google.com...
 
-Segon servidor SMPT lliurament del missatge, situat en la linia 2: by 2002:a05:7110:204f:b0:36c:eea6:fbe1...
+Segon servidor SMPT lliurament del missatge, situat en la línia 2: by 2002:a05:7110:204f:b0:36c:eea6:fbe1...
 
-Tercera linia autentificació completa, situat en la linia 16: mx.google.com; dkim=pass... spf=pass... dmarc=pass
+Tercera línia autentificació completa, situat en la línia 16: mx.google.com; dkim=pass... spf=pass... dmarc=pass
 
-**2.6. Taula de proves de tot Compror l'acces**
+**2.6. Taula de proves**
 
