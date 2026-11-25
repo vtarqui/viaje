@@ -1,7 +1,6 @@
 <img width="260" height="58" alt="imagen_2026-11-25_202732855-removebg-preview" src="https://github.com/user-attachments/assets/cf849875-0bae-4a4c-a00e-a24fe156717d" />
 
 
-
 # Organitzar un viatge amb Google
 
 ### **Fase 1 el correu**
