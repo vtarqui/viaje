@@ -184,3 +184,7 @@ Aquí he creat una taula d'almenys deu files, amb els filtres i la resposta auto
 
 <img width="1920" height="1080" alt="Captura de pantalla (2)" src="https://github.com/user-attachments/assets/f6e35083-9a25-4ec7-9c8a-29010f5b98c2" />
 
+Finalment, he creat una taula amb 6 files, amb què proves, com, que esperes i que ha passat.
+
+<img width="1920" height="1080" alt="Captura de pantalla (3)" src="https://github.com/user-attachments/assets/f3890731-895a-4fa8-b6d5-518b8819671b" />
+
