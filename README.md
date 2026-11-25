@@ -1,4 +1,5 @@
-<img width="200" height="200" alt="55f6ecefd62ca30003594eec828c7a40" src="https://github.com/user-attachments/assets/d133414f-b12b-4275-b4c9-844f403db8a9" />
+<img width="260" height="58" alt="imagen_2026-11-25_202732855-removebg-preview" src="https://github.com/user-attachments/assets/cf849875-0bae-4a4c-a00e-a24fe156717d" />
+
 
 
 # Organitzar un viatge amb Google
