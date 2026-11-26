@@ -194,13 +194,13 @@ Finalment, he creat una taula amb 6 files, amb què proves, com, que esperes i q
 
 | Dia | Origen | Parada | Transport | Activitat principal |
 | :--- | :--- | :--- | :--- | :--- |
-| **Dia 1** | Aeroport | **La Paz** | Avió, telefèric i Taxi urbà | Arribada, aclimatació i visita al centre de La Paz |
-| **Dia 2** | La Paz | **Tiwanaku** | Bus interprovincial i minibús | Visita al complex arqueològic de Tiwanaku |
-| **Dia 3** | Tiwanaku | **Copacabana** | Bus per carretera | Recorregut pel llac Titicaca i santuari |
-| **Dia 4** | Copacabana | **Cochabamba** | Bus de llarga distància | Transició de l'altiplà a la vall i visita urbana |
-| **Dia 5** | Cochabamba | **Potosí** | Bus interdepartamental | Visita històrica a la ciutat i entorn miner |
-| **Dia 6** | Potosí | **Oruro** | Cotxe | Recorregut cultural per Oruro i altiplà |
-| **Dia 7** | Oruro | **La Paz** | Bus interdepartamental i cotxe | Retorn al punt d'origen i comiat del viatge |
+| **Dia 1** | Aeroport | **La Paz** | Avió, telefèric i vehicle de quatre rodes | Arribada, aclimatació i visita al centre de La Paz |
+| **Dia 2** | La Paz | **Tiwanaku** | vehicle de quatre rodes | Visita al complex arqueològic de Tiwanaku |
+| **Dia 3** | Tiwanaku | **Copacabana** | Vehicle de quatre rodes | Recorregut pel llac Titicaca i santuari |
+| **Dia 4** | Copacabana | **Cochabamba** | Vehicle de quatre rodes | Transició de l'altiplà a la vall i visita urbana |
+| **Dia 5** | Cochabamba | **Potosí** | Vehicle de quatre rodes | Visita històrica a la ciutat i entorn miner |
+| **Dia 6** | Potosí | **Oruro** | Vehicle de quatre rodes | Recorregut cultural per Oruro i altiplà |
+| **Dia 7** | Oruro | **La Paz** | Vehicle de quatre rodes | Retorn al punt d'origen i comiat del viatge |
 
 <img width="1920" height="1080" alt="Captura de pantalla (4)" src="https://github.com/user-attachments/assets/748f3b6f-f8dc-449f-b68e-b971384aae40" />
 
