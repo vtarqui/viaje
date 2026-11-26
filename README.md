@@ -205,3 +205,12 @@ Finalment, he creat una taula amb 6 files, amb què proves, com, que esperes i q
 <img width="1920" height="1080" alt="Captura de pantalla (4)" src="https://github.com/user-attachments/assets/748f3b6f-f8dc-449f-b68e-b971384aae40" />
 
 **Enllaç del recorregut:** https://www.google.com/maps/d/edit?mid=1CmqgrHESHjdtr6jto50rnuv89pIQLg8&usp=sharing
+
+**3.2. Calculem el pressupost del transport, allotjament, menjar i total.**
+
+**3.3. Compartim el full amb el professorat amb el permís de veure.**
+
+Proves que sa realitzat correctament l'esdeveniment.
+
+<img width="1920" height="1080" alt="Captura de pantalla (5)" src="https://github.com/user-attachments/assets/e9100a64-25f3-4ce7-ae8c-b4776f1abc3d" />
+<img width="1920" height="1080" alt="Captura de pantalla (6)" src="https://github.com/user-attachments/assets/adbe48d6-26be-4175-bfa6-75b2c2fa723b" />
