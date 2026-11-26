@@ -212,5 +212,5 @@ Finalment, he creat una taula amb 6 files, amb què proves, com, que esperes i q
 
 Proves que sa realitzat correctament l'esdeveniment.
 
-<img width="1920" height="1080" alt="Captura de pantalla (5)" src="https://github.com/user-attachments/assets/e9100a64-25f3-4ce7-ae8c-b4776f1abc3d" />
-<img width="1920" height="1080" alt="Captura de pantalla (6)" src="https://github.com/user-attachments/assets/adbe48d6-26be-4175-bfa6-75b2c2fa723b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b02ffed-1229-458c-9a52-02901e9f0747" />
+
