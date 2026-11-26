@@ -214,4 +214,4 @@ Proves que sa realitzat correctament l'esdeveniment.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b02ffed-1229-458c-9a52-02901e9f0747" />
 
-**Enllaç del gràfic del pressupost:** https://docs.google.com/spreadsheets/d/1mWtmCJXpSgPcft2rmcrDCdtVrSJF02MflOvsN7IwMf0/edit?usp=sharing
+**Enllaç del full del pressupost:** https://docs.google.com/spreadsheets/d/1mWtmCJXpSgPcft2rmcrDCdtVrSJF02MflOvsN7IwMf0/edit?usp=sharing
