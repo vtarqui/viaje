@@ -192,3 +192,12 @@ Finalment, he creat una taula amb 6 files, amb què proves, com, que esperes i q
 
 **3.1. Creem la ruta de set dies, amb transport i parades.**
 
+| Dia | Origen | Destinació (Parada) | Transport | Activitat principal |
+| :--- | :--- | :--- | :--- | :--- |
+| **Dia 1** | Aeroport / Arribada | **La Paz** | Avió + Telefèric / Taxi urbà | Arribada, aclimatació i visita al centre de La Paz |
+| **Dia 2** | La Paz | **Tiwanaku** | Bus interprovincial / Minibús | Visita al complex arqueològic de Tiwanaku |
+| **Dia 3** | Tiwanaku | **Copacabana** | Bus per carretera + Llanxa (Estret de Tiquina) | Recorregut pel llac Titicaca i santuari |
+| **Dia 4** | Copacabana | **Cochabamba** | Bus de llarga distància / nocturn | Transició de l'altiplà a la vall i visita urbana |
+| **Dia 5** | Cochabamba | **Potosí** | Bus interdepartamental | Visita històrica a la ciutat i entorn miner |
+| **Dia 6** | Potosí | **Oruro** | Bus / Transport terrestre | Recorregut cultural per Oruro i altiplà |
+| **Dia 7** | Oruro | **La Paz** | Bus interdepartamental / Cotxe | Retorn al punt d'origen i comiat del viatge |
