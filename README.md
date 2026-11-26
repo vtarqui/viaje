@@ -188,3 +188,7 @@ Finalment, he creat una taula amb 6 files, amb què proves, com, que esperes i q
 
 <img width="1920" height="1080" alt="Captura de pantalla (3)" src="https://github.com/user-attachments/assets/f3890731-895a-4fa8-b6d5-518b8819671b" />
 
+### **Fase 3: El viatge** 
+
+**3.1. Creem la ruta de set dies, amb transport i parades.**
+
