@@ -75,8 +75,20 @@ Proves de què funciona.
 
 <img width="1874" height="952" alt="Captura de pantalla 2026-11-22 193237" src="https://github.com/user-attachments/assets/52156eaa-120b-405f-a5d8-b9480e3d6226" />
 
+# Correu electrònic
 
-Taula de proves: https://drive.google.com/file/d/1XVd-JeufIk1R_SyhLZSw1VNUjncf_hbP/view?usp=sharing
+## Taula de proves
+
+| Filtre | Què envies | Què esperes que passi | Quin ha sigut el resultat |
+|---|---|---|---|
+| puig | Un correu a mi mateix amb la paraula "puig" a l'assumpte. | Que entri a la safata i se li posi l'etiqueta verda. | Funciona bé, els missatges amb puig tenen l'etiqueta verda. |
+| publicitat | Un correu a mi mateix amb la paraula "publicitat". | Que no surti a la safata d'entrada i vagi directament a promocions. | Funciona bé, els missatges amb la paraula publicitat no surten a la safata d'entrada i surten marcats amb l'etiqueta promoció. |
+| professors | Correus enviats per Cari i en Ruben. | Que es marquin sols com importants. | Funciona bé, s'han marcat tots els missatges com a importants. |
+| Resposta vacances | Un correu enviat d'un altre compte amb la resposta "Estic de vacances!". | Que respongui sol amb "Estic de vacances!". | Funciona bé, el remitent ha rebut la resposta automàticament. |
+
+## Què passa amb el filtre de "publicitat" si deixessis de marcar "omet la safata d'entrada" i per què?
+
+Si no marquem "omet la safata d'entrada", el correu s'etiquetarà igualment com a "promocions", però encara sortirà a la safata d'entrada. Això passa perquè, com que no s'arxiva expressament, Gmail posa els missatges a la safata d'entrada.
 
 ### **Fase 2 comprovar l'accés**
 
