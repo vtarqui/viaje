@@ -215,3 +215,14 @@ Proves que sa realitzat correctament l'esdeveniment.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b02ffed-1229-458c-9a52-02901e9f0747" />
 
 **Enllaç del full del pressupost:** https://docs.google.com/spreadsheets/d/1mWtmCJXpSgPcft2rmcrDCdtVrSJF02MflOvsN7IwMf0/edit?usp=sharing
+
+**3.4. Crea el nou calendari a Google Calendari.**
+
+Entrem a Google Calendari i fem clic a altres calendaris per crem un nou calendari.
+
+<img width="1920" height="1080" alt="Captura de pantalla (8)" src="https://github.com/user-attachments/assets/f0874da1-ff15-49c4-b744-12b43fbc75a2" />
+
+Posem nom al calendari, escrivim una breu descripció i creem el calendari.
+
+<img width="1920" height="1080" alt="Captura de pantalla (10)" src="https://github.com/user-attachments/assets/7f0d9dd6-c338-4d92-a9ec-cad96822bd03" />
+
