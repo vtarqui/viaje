@@ -62,7 +62,7 @@ Proves de què sa creat correctament.
 
 Crear un filtre per tenir dos professors com importants.
 
-Per crear aquests dos últims filtres hem d'entrar a Crea un filtre, a dins en la primera línia De: hem de posar el correu dels dos docents, jo posaré el coreu de la meva tutora Kari, caridadcastillo@elpuig.xeill.net i l'altre serà la del docent d'aplicacions web Rusbèn, rusben@elpuig.xeill.net, entre els dos correus hem de posar OR important. Després hem de fer clic a Crea un filtre i hem d'indicar l'octava opció Marca sempre com a important i l'última opció Aplica també el filtre a 13 converses coincidents. I Per finalitzar cliquem en Crea filtre.
+Per crear aquests dos últims filtres hem d'entrar a Crea un filtre, a dins en la primera línia De: hem de posar el correu dels dos docents, jo posaré el coreu de la meva tutora Kari, caridadcastillo@elpuig.xeill.net i l'altre serà el docent d'aplicacions web Rusbèn, rusben@elpuig.xeill.net, entre els dos correus hem de posar OR important. Després hem de fer clic a Crea un filtre i hem d'indicar l'octava opció Marca sempre com a important i l'última opció Aplica també el filtre a 13 converses coincidents. I Per finalitzar cliquem en Crea filtre.
 <img width="2000" height="989" alt="Disseny sense títol (17)" src="https://github.com/user-attachments/assets/662e5170-07ed-4a4b-a649-af101d0d29b7" />
 
 Finalment, hem de crear una resposta automàtica de vacances amb **Estic de vacances**.
