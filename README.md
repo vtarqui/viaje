@@ -165,6 +165,7 @@ Finalment, he creat una taula amb 6 files, amb què proves, com, que esperes i q
 | **Dia 6** | Potosí | **Oruro** | Vehicle de quatre rodes | Recorregut cultural per Oruro i altiplà |
 | **Dia 7** | Oruro | **La Paz** | Vehicle de quatre rodes | Retorn al punt d'origen i comiat del viatge |
 
+
 <img width="1920" height="1080" alt="Captura de pantalla (4)" src="https://github.com/user-attachments/assets/748f3b6f-f8dc-449f-b68e-b971384aae40" />
 
 **Enllaç del recorregut:** https://www.google.com/maps/d/edit?mid=1CmqgrHESHjdtr6jto50rnuv89pIQLg8&usp=sharing
