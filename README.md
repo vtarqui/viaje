@@ -7,50 +7,14 @@
 ### **Fase 1 el correu**
 
 
-Llistat de sis eines de Google amb propòsit públic.
-
-
-**-Eina:** Drive. 
-
-**-Propòsit:** Actua com un servei públic d'emmagatzematge en el núvol que permet guardar, organitzar, sincronitzar i compartir arxius des de qualsevol dispositiu amb connexió a internet. Només compta amb 15 GB gratuïtes si bols més espai has de pagar o esborrar arxius per tenir més espai.
-
-**-Públic objectiu:** El públic objectiu de Drive és per qualsevol persona que vulgui guardar material en el núvol a més és molt bo i perquè és gratis, és molt pràctic per l'ús educatiu i corporatiu per empreses petites.  
-
-**-Eina:** Classroom.
-
-**-Propòsit:** Serveix com un espai de treball, és molt pràctic pels professors perquè poden inserir des de trameses, vídeos, PDF, Sites, etc. Classroom compte amb un calendari per mostrar anuncis i trameses. Els professors poden avaluar les trameses des de Classroom i també poden posar notés. Les trameses entregades fora del temps encomanat no es poden acceptar.
-
-**-Públic objectiu:** És una eina indispensable per l'ús educatiu, tant d'estudiants com de professors.
-
-
-**-Eina:** YouTube.
-
-**-Propòsit:** YouTube serveix com mitjà de comunicació, és un lloc públic on pots pujar vídeos i la gent et pot donar suport amb likes o subscripcions, si arribes a un nombre mínim de seguidors pots rebre una insígnia de verificació per poder guanyar diners amb YouTube, és molt útil per buscar informació, escoltar música i oci com veure videojocs o pel·lícules hi ha moltes opcions.
-
-**-Públic objectiu:** No té un públic objectiu específic, però la gran majoria són joves de trenta anys cap amunt, perquè són els principals que creen el contingut i pujant els vídeos a la plataforma.
-
-**-Eina:** Google Meet.
-
-**-Propòsit:** Google Meet ens permet fer trucades i reunions en línia, és molt pràctic perquè és molt ràpida i segura.
-
-**-Públic objectiu:** No té un públic objectiu específic, tot el món que vulgui fer una trucada en línia la pot fer servi.
-
-**-Eina:** Google Calendari.
-
-**-Propòsit:** Ens permet organitzar, planificar, gestionar el temps i les tasques.
-
-**-Públic objectiu:** No té un públic objectiu específic, qualsevol persona la pot fer servi sense restricció.
-
-**-Eina:** Google Maps.
-
-**-Propòsit:** Ens ajuda a orientar-nos, calcular rutes en temps real i descobrir llocs nous mediant mapés digitals interactius.
-
-**-Públic objectiu:** Està disponible per qualsevol persona que vulgui buscar un lloc en el mapa.
-
-### **1.1. Quina diferència hi ha entre IMAP i POP3.**
-
-IMAP manté els missatges al servidor i els sincronitza entre tots els dispositius, mentre que POP3 els descarrega d'un únic dispositiu, i per defecte els elimina del servidor.
-
+| Eina | Propòsit | Públic objectiu |
+| :---: | :--- | :--- |
+| **Drive**<br><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="32"> | Actua com un servei públic d'emmagatzematge en el núvol que permet guardar, organitzar, sincronitzar i compartir arxius des de qualsevol dispositiu amb connexió a internet. Només compta amb 15 GB gratuïts; si vols més espai has de pagar o esborrar arxius per tenir més espai. | Qualsevol persona que vulgui guardar material en el núvol (és gratuït i molt pràctic per a l'ús educatiu i corporatiu per a empreses petites). |
+| **Classroom**<br><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Google_Classroom_Logo.svg" width="32"> | Serveix com un espai de treball molt pràctic per als professors perquè poden inserir des de trameses, vídeos, PDF, Sites, etc. Compta amb un calendari per mostrar anuncis i trameses. Els professors poden avaluar les trameses i posar notes (les trameses entregades fora del temps encomanat no es poden acceptar). | És una eina indispensable per a l'ús educatiu, tant d'estudiants com de professors. |
+| **YouTube**<br><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="32"> | Serveix com a mitjà de comunicació i és un lloc públic on pots pujar vídeos i la gent et pot donar suport amb *likes* o subscripcions (si arribes a un nombre mínim de seguidors pots rebre una insígnia de verificació per poder guanyar diners). És molt útil per buscar informació, escoltar música i oci (veure videojocs o pel·lícules). | No té un públic objectiu específic, però la gran majoria són joves de trenta anys cap amunt, perquè són els principals que creen el contingut i pugen els vídeos a la plataforma. |
+| **Google Meet**<br><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Google_Meet_icon_%282020%29.svg" width="32"> | Permet fer trucades i reunions en línia; és molt pràctic perquè és molt ràpida i segura. | No té un públic objectiu específic; tothom qui vulgui fer una trucada en línia la pot fer servir. |
+| **Google Calendari**<br><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg" width="32"> | Permet organitzar, planificar i gestionar el temps i les tasques. | No té un públic objectiu específic; qualsevol persona la pot fer servir sense restricció. |
+| **Google Maps**<br><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Google_Maps_icon_%282020%29.svg" width="32"> | Ajuda a orientar-se, calcular rutes en temps real i descobrir llocs nous mitjançant mapes digitals interactius. | Està disponible per a qualsevol persona que vulgui buscar un lloc en el mapa. |
 ### **1.2. Com crear una etiqueta i inserir un color.** 
 
 Per crear la plantilla primer hem d'accedir al nostre comte de Gmail a l'ordinador, hem d'entrar a baix a l'esquerra fins a trobar l'apartat Etiquetes, has de fer clic al símbol + que apareix al costat d'etiquetes, s'obrirà un quadre aquí hem de posar el nom de l'etiqueta, institut i per últim cliquem en crear per acabar.
