@@ -168,7 +168,16 @@ Aquí he creat una taula d'almenys deu files, amb els filtres i la resposta auto
 
 Finalment, he creat una taula amb 6 files, amb què proves, com, que esperes i que ha passat.
 
-<img width="1920" height="1080" alt="Captura de pantalla (3)" src="https://github.com/user-attachments/assets/f3890731-895a-4fa8-b6d5-518b8819671b" />
+## 2.7. Taula de proves de com, què esperem i quin ha sigut el resultat
+
+| Què provem? | Com? | Què esperem? | Què ha passat? |
+|---|---|---|---|
+| Accés IMAP. | Entro al botó configuracions amb símbol de roda dentada, del correu del centre i miro l'apartat de Reenviament i POP/IMAP. | Veure si l'IMAP està actiu i quins servidors i ports fa servir. | L'IMAP està actiu i el POP3 es pot canviar, però apareix una alerta de què no hauria de modificar-la, així que jo no marcaré cap opció. |
+| Enviament amb puig entre comptes. | Tinc obert dues sessions i envio un correu amb puig a l'assumpte. | Que arribi correctament i li posi l'etiqueta institut. | Ha arribat al moment i li ha posat l'etiqueta institut sol. |
+| Resposta al missatge. | Contesto des de l'altre compte i miro la safata d'entrada d'on va sortir el correu. | Que la resposta torni sense problemes. | Ha tornat bé i ràpid al compte inicial. |
+| Resultats SPF, DKIM i DMARC. | Obro un missatge rebut, i clico als tres punts i entro a Mostra l'original. | Que els tres surtin en PASS. | Surten les tres en PASS a la capçalera. |
+| Salt del missatge Received. | Miro les línies de Received i X-Received a dins de l'origen del correu. | Saber quins servidors ha passat el correu abans d'arribar. | Surten els salts pels servidors de Google en la línia 2 i 13 en Received, i la 32 en X-Received. |
+| Dades generals de la capçalera. | Reviso el remitent, el destinatari i l'assumpte a l'original. | Que els resultats i procediments quadrin correctament amb el que he fet. | Coincideix tots els punts sense cap error. |
 
 ### **Fase 3: El viatge** 
 
