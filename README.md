@@ -222,7 +222,7 @@ Proves que sa realitzat correctament l'esdeveniment.
 <img width="1920" height="1080" alt="Captura de pantalla (11)" src="https://github.com/user-attachments/assets/5c16e5ca-5db4-4c8a-ade3-5c7040ec03f6" />
 <img width="1920" height="1080" alt="Captura de pantalla (12)" src="https://github.com/user-attachments/assets/5dbd99c5-c912-4205-87ce-aadf851a7fe1" />
 
-He afegit un esdebenimet per cada dia, amb lloc, descripció i activitat.
+He afegit un esdevenimet per cada dia, amb lloc, descripció i activitat.
 
 Dia 1:
 <img width="1920" height="1080" alt="Captura de pantalla (13)" src="https://github.com/user-attachments/assets/731c441f-fefc-4a80-8f48-a9764e7495bb" />
@@ -244,3 +244,65 @@ Dia 6:
 
 Dia 7: 
 <img width="1920" height="1080" alt="Captura de pantalla (19)" src="https://github.com/user-attachments/assets/92865e8b-271c-4bc2-82fc-87af17deb119" />
+
+**3.5. Demostra les prestacions:** 
+
+Primer hem de fer un esdeveniment repetit com un recordatori diari de revisar la maleta, amb final. 
+
+El prime hem de buscar el boto Crear, adins hem de entrar a Esdeveniments.
+
+<img width="1920" height="1080" alt="Captura de pantalla (20)" src="https://github.com/user-attachments/assets/9b66c58b-9319-46aa-8994-12a750c07ec9" />
+
+Adins hi posem com a titol: Revisar la maleta.
+
+<img width="1920" height="1080" alt="Captura de pantalla (21)" src="https://github.com/user-attachments/assets/592fc09e-ba2d-4294-abfc-5d907c9657af" />
+
+Hem de modificar la data per 30 de novembre de 2026 i l'hora ha de ser de 8:00 a 8:30. 
+
+<img width="1920" height="1080" alt="Captura de pantalla (22)" src="https://github.com/user-attachments/assets/f80276b3-ab2d-4a0a-b533-19edb8f91c5a" />
+
+Ara hem d'entrar a Més opcions.
+
+En l'apartat No es repeteix hem de canviar-la per Personalitzat.
+
+<img width="1920" height="1080" alt="Captura de pantalla (23)" src="https://github.com/user-attachments/assets/98b35615-8dec-42a5-8d4a-a2cc7ab26ed1" />
+
+Ha de posar que es repeteix cada un dia. 
+
+Per finalitzar, marca el cercle El dia i selecciona el 6 de desembre de 2026.
+
+Per guarda els canvis cliquem en Fet i després al botó blau Desa.
+
+<img width="1920" height="1080" alt="Captura de pantalla (24)" src="https://github.com/user-attachments/assets/63ab09cd-7b17-484d-8695-a8adf4bb819a" />
+
+Finalment hauria de quedar així.
+
+<img width="1920" height="1080" alt="Captura de pantalla (25)" src="https://github.com/user-attachments/assets/b3d59bf8-1046-4c70-a557-5acabc2a673f" />
+
+**3.6. Convidat que respondi.**
+
+He de convidar al meu company a l'esdeveniment de sortida i comprova que em respon.
+
+Prova de què el meu company ha rebut la invitació i veu el calendari.
+
+<img width="1920" height="1080" alt="Captura de pantalla (26)" src="https://github.com/user-attachments/assets/9ec5f2ec-7ec7-4d2d-9718-3dea1d4b48f6" />
+
+Punt de vista del meu company.
+
+<img width="1920" height="1080" alt="Captura de pantalla (28)" src="https://github.com/user-attachments/assets/6b1bbd5b-3d09-4b80-be3c-d834ebdd021c" />
+
+Funciona correctament.
+
+**3.7. Posem un recordatori el dia abans de sortir.** 
+
+Peer crear-la hem d'editar l'esdeveniment amunt de Primer dia arribem a Bolívia la Paz.
+
+<img width="1920" height="1080" alt="Captura de pantalla (29)" src="https://github.com/user-attachments/assets/848b34a1-194e-4018-acf4-f2181f952908" />
+
+A dins hem d'entrar a Afegeix una notificació, hem de deixar la primera capça en Notificació, la segona en 1 i l'última en dies, per finalitzar sa de púlsar el botó Desa. 
+
+<img width="1920" height="1080" alt="Captura de pantalla (30)" src="https://github.com/user-attachments/assets/b04aa24f-df72-421a-94f0-5ca8305b16ca" />
+
+Prova de què s'ha completat correctament.
+
+<img width="1920" height="1080" alt="Captura de pantalla (31)" src="https://github.com/user-attachments/assets/82dd828a-6a53-4ca7-b0e1-f19b850da63c" />
