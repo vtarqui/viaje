@@ -226,3 +226,7 @@ Posem nom al calendari, escrivim una breu descripció i creem el calendari.
 
 <img width="1920" height="1080" alt="Captura de pantalla (10)" src="https://github.com/user-attachments/assets/7f0d9dd6-c338-4d92-a9ec-cad96822bd03" />
 
+En d'incloure data d'inici i final, un esdeveniment per dia, amb llocs i activitats.
+
+<img width="1920" height="1080" alt="Captura de pantalla (11)" src="https://github.com/user-attachments/assets/5c16e5ca-5db4-4c8a-ade3-5c7040ec03f6" />
+<img width="1920" height="1080" alt="Captura de pantalla (12)" src="https://github.com/user-attachments/assets/5dbd99c5-c912-4205-87ce-aadf851a7fe1" />
