@@ -342,17 +342,18 @@ I lla estaria entregat correctament amb els canvis que demanava.
 
 ### **Fase 4: Permisos i proves**
 
-Per poder controlar qui té accés i que no hem d'entrar als tres punts al costat de CALENDARI_VICTOR_DAVID_TARQUI_CALLE i entra en configuració i ús compartit.
+**4.1. Comprovació de qui té accés i permisos al full de càlcul, i treure els permisos que no calguin.**  
+
+Per comprovar qui té accés al full de càlcul hem de fer clic a compartir arriba a la dreta i mira les persones amb accés, podem comprovar qui té rol de lector, editor i etc.
+
+<img width="1920" height="1080" alt="Captura de pantalla (40)" src="https://github.com/user-attachments/assets/97727321-9c4e-48e2-bb66-67dade7f0c2f" />
+
+4.2. Comprovació de qui té accés i permisos al Calendari, i treure els permisos que no calguin.   
+
+Per poder controlar qui té accés i que no hem en el Google Calendari d'entrar als tres punts al costat de CALENDARI_VICTOR_DAVID_TARQUI_CALLE i entra en configuració i ús compartit.
 
 Ve a Comparteix amb persones o grups determinats:
 
 Revisem la llista de persones que apareixen, si n'hi ha una que no et quadra has de clicar en la X a la dreta del seu nom per poder eliminar-lo.
 
 <img width="1920" height="1080" alt="Captura de pantalla (39)" src="https://github.com/user-attachments/assets/19ec8636-9bc4-429a-800d-9da75c856a41" />
-
-Baig quita els permisos a la persona que no era de l'organització.
-
-Per comprovar qui té accés al full de càlcul hem de fer clic a compartir arriba a la dreta i mira les persones amb accés, podem comprovar qui té rol de lector, editor i etc.
-
-<img width="1920" height="1080" alt="Captura de pantalla (40)" src="https://github.com/user-attachments/assets/97727321-9c4e-48e2-bb66-67dade7f0c2f" />
-
