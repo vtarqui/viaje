@@ -35,9 +35,9 @@ Filtre: puig
 <img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 11-48-14" src="https://github.com/user-attachments/assets/eefb94b2-04c5-4264-a4be-43c14637c95d" />
 
 Un cop creat el filtre s'obrirà llista per escollir que fer amb els correus, hem d'assenyalar Aplica l'etiqueta, al costat hem de seleccionar institut i per últim a baix hem de marcar l'última opció Aplica també el filtre a les converses coincidents, un cop acabat prenem el botó Crea un filtre per finalitzar. 
- 
-<img width="1995" height="1004" alt="Disseny sense títol (12)" src="https://github.com/user-attachments/assets/865616ee-9785-4b49-a71b-a05651122003" />
 
+<img width="1920" height="1080" alt="edited-image" src="https://github.com/user-attachments/assets/709e07de-f20c-4f77-81fa-feb62709a427" />
+ 
 Proves de què sa creat correctament.
 
 <img width="2000" height="839" alt="Disseny sense títol (13)" src="https://github.com/user-attachments/assets/67b80a78-5308-469c-a4f1-d5ad5ed58616" />
