@@ -57,7 +57,7 @@ Per crear la plantilla primer hem d'accedir al nostre comte de Gmail a l'ordinad
 
 Hi ha un apartat a baix del nom de l'etiqueta que ens permet situar on volem crear l'etiqueta, és molt útil per organitzar la safata d'entrada.
 
-<img width="1871" height="948" alt="Captura de pantalla 2026-11-22 203100" src="https://github.com/user-attachments/assets/2f8d41d3-b54b-42e8-8dfd-5ec1f1a7edbd" />
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 11-39-07" src="https://github.com/user-attachments/assets/3db9b7d2-133c-4bb5-8c98-37ecfca27262" />
 
 Per inserir un color hem de buscar l'etiqueta que havíem creat anteriorment, al final del nom hi ha tres punts en vertical, fem clic i a dins seleccionem Color de l'etiqueta, i tries el color que més t'agradi en el meu cas jo posaré el colo verd.
 
