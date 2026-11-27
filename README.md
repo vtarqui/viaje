@@ -216,17 +216,7 @@ Proves que sa realitzat correctament l'esdeveniment.
 
 **Enllaç del full del pressupost:** https://docs.google.com/spreadsheets/d/1mWtmCJXpSgPcft2rmcrDCdtVrSJF02MflOvsN7IwMf0/edit?usp=sharing
 
-**3.4. Crea el nou calendari a Google Calendari.**
-
-Entrem a Google Calendari i fem clic a altres calendaris per crem un nou calendari.
-
-<img width="1920" height="1080" alt="Captura de pantalla (8)" src="https://github.com/user-attachments/assets/f0874da1-ff15-49c4-b744-12b43fbc75a2" />
-
-Posem nom al calendari, escrivim una breu descripció i creem el calendari.
-
-<img width="1920" height="1080" alt="Captura de pantalla (10)" src="https://github.com/user-attachments/assets/7f0d9dd6-c338-4d92-a9ec-cad96822bd03" />
-
-En d'incloure data d'inici i final, un esdeveniment per dia, amb llocs i activitats.
+**3.4. Creem el calendari: CALENDARI_VICTOR_DAVID_TARQUI_CALLE.**
 
 <img width="1920" height="1080" alt="Captura de pantalla (11)" src="https://github.com/user-attachments/assets/5c16e5ca-5db4-4c8a-ade3-5c7040ec03f6" />
 <img width="1920" height="1080" alt="Captura de pantalla (12)" src="https://github.com/user-attachments/assets/5dbd99c5-c912-4205-87ce-aadf851a7fe1" />
