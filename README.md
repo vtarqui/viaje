@@ -6,6 +6,7 @@
 
 ### **Fase 1 el correu**
 
+**Fes una llista de sis eines de Google amb propòsit públic.**
 
 | Eina | Propòsit | Públic objectiu |
 | :---: | :--- | :--- |
