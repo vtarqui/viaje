@@ -61,8 +61,6 @@ Hi ha un apartat a baix del nom de l'etiqueta que ens permet situar on volem cre
 
 Per inserir un color hem de buscar l'etiqueta que havíem creat anteriorment, al final del nom hi ha tres punts en vertical, fem clic i a dins seleccionem Color de l'etiqueta, i tries el color que més t'agradi en el meu cas jo posaré el colo verd.
 
-[![Captura-de-pantalla-de-2026-11-20-12-27-03-(editat).png](https://i.postimg.cc/qRzH8TR6/Captura-de-pantalla-de-2026-11-20-12-27-03-(editat).png)](https://postimg.cc/S2FPhHcm)
-
 ### **1.3. Creem els 5 filtres**
 
 Per crear un filtre hem d'anar a la roda dentada, aquí hem d'entrar a Mostra tota la configuració, a dins hem d'anar a Filtres i adreces bloquejades i per últim hem d'entrar en Crea un filtre. A dins en descriure en Conté les paraules per a quan la paraula puig per a quan coincideixin, per finalitzar només has de fer clic en Crear un filtre.
