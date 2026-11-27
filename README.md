@@ -149,9 +149,22 @@ Tercera línia autentificació completa, situat en la línia 16: mx.google.com; 
 
 Aquí he creat una taula d'almenys deu files, amb els filtres i la resposta automàtica. 
 
-<img width="1920" height="1080" alt="Captura de pantalla (1)" src="https://github.com/user-attachments/assets/5294922d-7690-475d-950a-6acfea19d1cc" />
+## Llistat d’almenys 10 files, amb filtres, i les respostes automàtiques
 
-<img width="1920" height="1080" alt="Captura de pantalla (2)" src="https://github.com/user-attachments/assets/f6e35083-9a25-4ec7-9c8a-29010f5b98c2" />
+| Què provem? | Com? | Què esperem? | Què ha passat? |
+|---|---|---|---|
+| Filtre d’etiqueta institut. | Enviem un missatge amb la paraula puig a l’assumpte. | Que tots els missatges que continguin la paraula puig s’etiquetin amb el filtre institut de color verd. | El missatge arriba amb l’etiqueta institut automàticament. |
+| Filtre d’etiqueta institut (cos del text). | Enviar un missatge amb la paraula puig però en el text i no en l’assumpte. | Que el filtre també detecti la paraula puig en el cos del missatge. | S’ha aplicat l’etiqueta institut correctament. |
+| Filtre d’etiqueta promocions. | Enviar o rebre un missatge relacionat amb la paraula publicitat. | Que tots els missatges relacionats amb la paraula publicitat tinguin l’etiqueta promocions de color groc. | El correu ha rebut l’etiqueta promocions automàticament. |
+| Omet la safata d’entrada. | Amb el filtre d’arxivar actiu, revisa rebuts després de rebre el correu. | Que no apareguin en Rebuts, sinó directament a promocions. | La safata d’entrada queda neta i el correu és a promocions. |
+| Comprovació des d’un compte personal. | Enviem un correu del compte personal cap al compte de treball de l’escola. | Que els filtres funcionin igual en un correu extern. | S’ha reconegut el missatge extern i s’ha aplicat l’etiqueta. |
+| Sense cap filtre. | Envia un correu normal sense cap paraula clau, sense cap filtre i cap missatge automàtic. | Que entri a la safata d’entrada normal sense cap etiqueta. | Ha entrat en Rebuts sense modificacions ni etiquetes. |
+| Aplicar un filtre a converses existents. | Hem de marcar Aplica el filtre també a les converses coincidents. | Que els correus antics que coincideixin rebin l’etiqueta. | Les converses anteriors s’han actualitzat automàticament. |
+| Activació de la resposta automàtica. | En la roda dentada hem d’activar els missatges automàtics i enviar un correu de prova. | Que respongui sol amb el missatge configurat. | S’ha rebut la resposta automàtica a l’instant. |
+| Límit d’una resposta per remitent. | Enviar dos correus iguals un seguit de l’altre al mateix compte. | Que no enviï una segona resposta automàtica repetida. | Només s’ha enviat una resposta automàtica. |
+| Desactivem la resposta automàtica. | Desactivem la resposta automàtica i enviem un nou correu de prova. | Que deixi d'enviar respostes soles i funcioni normal. | El correu s’ha rebut normalment sense resposta automàtica. |
+
+**2.7. Taula de proves de com, que esperem i quin ha sigut el resultat.**
 
 Finalment, he creat una taula amb 6 files, amb què proves, com, que esperes i que ha passat.
 
