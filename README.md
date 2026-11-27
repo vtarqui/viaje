@@ -347,6 +347,23 @@ En d'Afegir persones i grups em descriví el correu del nostre company i tria l'
 
 <img width="1920" height="1080" alt="Captura de pantalla (37)" src="https://github.com/user-attachments/assets/1565a4e4-4be0-4296-842a-8ae843a5776f" />
 
-I lla estaria enviada correctament amb els canvis que demanava.
+I lla estaria entregat correctament amb els canvis que demanava.
 
 <img width="1920" height="1080" alt="Captura de pantalla (38)" src="https://github.com/user-attachments/assets/bfa07a57-16c1-4d1b-8b62-e682c204254d" />
+
+### **Fase 4: Permisos i proves**
+
+Per poder controlar qui té accés i que no hem d'entrar als tres punts al costat de CALENDARI_VICTOR_DAVID_TARQUI_CALLE i entra en configuració i ús compartit.
+
+Ve a Comparteix amb persones o grups determinats:
+
+Revisem la llista de persones que apareixen, si n'hi ha una que no et quadra has de clicar en la X a la dreta del seu nom per poder eliminar-lo.
+
+<img width="1920" height="1080" alt="Captura de pantalla (39)" src="https://github.com/user-attachments/assets/19ec8636-9bc4-429a-800d-9da75c856a41" />
+
+Baig quita els permisos a la persona que no era de l'organització.
+
+Per comprovar qui té accés al full de càlcul hem de fer clic a compartir arriba a la dreta i mira les persones amb accés, podem comprovar qui té rol de lector, editor i etc.
+
+<img width="1920" height="1080" alt="Captura de pantalla (40)" src="https://github.com/user-attachments/assets/97727321-9c4e-48e2-bb66-67dade7f0c2f" />
+
