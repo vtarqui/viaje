@@ -67,7 +67,7 @@ Per crear un filtre hem d'anar a la roda dentada, aquí hem d'entrar a Mostra to
 
 Filtre: puig
 
-[![Captura-de-pantalla-de-2026-11-20-14-07-09.png](https://i.postimg.cc/76b2vfBt/Captura-de-pantalla-de-2026-11-20-14-07-09.png)](https://postimg.cc/sQdX7DC5)
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 11-48-14" src="https://github.com/user-attachments/assets/eefb94b2-04c5-4264-a4be-43c14637c95d" />
 
 Un cop creat el filtre s'obrirà llista per escollir que fer amb els correus, hem d'assenyalar Aplica l'etiqueta, al costat hem de seleccionar institut i per últim a baix hem de marcar l'última opció Aplica també el filtre a les converses coincidents, un cop acabat prenem el botó Crea un filtre per finalitzar. 
  
