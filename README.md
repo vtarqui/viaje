@@ -168,8 +168,6 @@ Aquí he creat una taula d'almenys deu files, amb els filtres i la resposta auto
 
 Finalment, he creat una taula amb 6 files, amb què proves, com, que esperes i que ha passat.
 
-## 2.7. Taula de proves de com, què esperem i quin ha sigut el resultat
-
 | Què provem? | Com? | Què esperem? | Què ha passat? |
 |---|---|---|---|
 | Accés IMAP. | Entro al botó configuracions amb símbol de roda dentada, del correu del centre i miro l'apartat de Reenviament i POP/IMAP. | Veure si l'IMAP està actiu i quins servidors i ports fa servir. | L'IMAP està actiu i el POP3 es pot canviar, però apareix una alerta de què no hauria de modificar-la, així que jo no marcaré cap opció. |
