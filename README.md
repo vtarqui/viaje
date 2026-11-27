@@ -90,7 +90,12 @@ En aquesta part podem observar que no es pot activar l'accés IMAP perquè lla v
 
 Ara hem de crear la taula amb els paràmetres de cada servei. 
 
-<img width="797" height="615" alt="Captura de pantalla 2026-11-23 212548" src="https://github.com/user-attachments/assets/d41770a8-c499-401e-8afb-ff66543591da" />
+## Taula dels paràmetres de cada servei
+
+| SERVEI       | SERVIDOR       | PORT       | XIFRATGE          |
+|--------------|----------------|------------|-------------------|
+| Entrada IMAP | imap.gmail.com | 993        | SSL/TLS           |
+| Sortida SMTP | smtp.gmail.com | 465 o 587  | SSL/TLS o STARTTLS |
 
 **2.2. Prova que funciona correctament el missatge entre dos correus diferents**.
 
