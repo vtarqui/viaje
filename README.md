@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Captura de pantalla (13)" src="https://github.com/user-attachments/assets/ed7dbb54-9401-48c8-9abf-2c3f59c254b2" />
+
 <img width="260" height="58" alt="imagen_2026-11-25_202732855-removebg-preview" src="https://github.com/user-attachments/assets/cf849875-0bae-4a4c-a00e-a24fe156717d" />
 
 
@@ -222,7 +222,7 @@ Proves que sa realitzat correctament l'esdeveniment.
 <img width="1920" height="1080" alt="Captura de pantalla (11)" src="https://github.com/user-attachments/assets/5c16e5ca-5db4-4c8a-ade3-5c7040ec03f6" />
 <img width="1920" height="1080" alt="Captura de pantalla (12)" src="https://github.com/user-attachments/assets/5dbd99c5-c912-4205-87ce-aadf851a7fe1" />
 
-Ha afegit un esdebenimet per cada dia, amb lloc, descripció i activitat.
+He afegit un esdebenimet per cada dia, amb lloc, descripció i activitat.
 
 Dia 1:
 <img width="1920" height="1080" alt="Captura de pantalla (13)" src="https://github.com/user-attachments/assets/731c441f-fefc-4a80-8f48-a9764e7495bb" />
