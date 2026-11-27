@@ -348,12 +348,16 @@ Per comprovar qui té accés al full de càlcul hem de fer clic a compartir arri
 
 <img width="1920" height="1080" alt="Captura de pantalla (40)" src="https://github.com/user-attachments/assets/97727321-9c4e-48e2-bb66-67dade7f0c2f" />
 
-4.2. Comprovació de qui té accés i permisos al Calendari, i treure els permisos que no calguin.   
+Treure els permisos d'edició a tots els que entrin per l'enllaç perquè no modifiquen res del full de càlcul.
+
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 13-55-25" src="https://github.com/user-attachments/assets/32baaab5-6fff-422b-89b6-e9e9269e1e8b" />
+
+**4.2. Comprovació de qui té accés i permisos al Calendari, i treure els permisos que no calguin.**   
 
 Per poder controlar qui té accés i que no hem en el Google Calendari d'entrar als tres punts al costat de CALENDARI_VICTOR_DAVID_TARQUI_CALLE i entra en configuració i ús compartit.
 
 Ve a Comparteix amb persones o grups determinats:
 
-Revisem la llista de persones que apareixen, si n'hi ha una que no et quadra has de clicar en la X a la dreta del seu nom per poder eliminar-lo.
+Revisem la llista de persones que apareixen, si n'hi ha una persona que no bols que tingues el compartit, has de clicar en la X a la dreta del seu nom per poder eliminar-lo.
 
 <img width="1920" height="1080" alt="Captura de pantalla (39)" src="https://github.com/user-attachments/assets/19ec8636-9bc4-429a-800d-9da75c856a41" />
