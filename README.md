@@ -306,3 +306,47 @@ A dins hem d'entrar a Afegeix una notificació, hem de deixar la primera capça 
 Prova de què s'ha completat correctament.
 
 <img width="1920" height="1080" alt="Captura de pantalla (31)" src="https://github.com/user-attachments/assets/82dd828a-6a53-4ca7-b0e1-f19b850da63c" />
+
+**3.8. Crea tres tasques amb data: compra els bitllets, reservar l'allotjament i fer la maleta.** 
+
+Podem situar l'aparta per crear tasques a la barra a la dreta amb el nom Tasks.
+
+<img width="1920" height="1080" alt="Captura de pantalla (32)" src="https://github.com/user-attachments/assets/1f3de613-4adb-4645-b33d-86e7941d5f36" />
+
+En el panel obert hem de fer clic sobre + Afegeix una tasca tres cops i posar el seguent en cada taula:
+
+Tasca 1: 
+· Comprar els bitllets. 
+· 28 de novembre de 2026.
+
+Tasca 2: 
+· Reservar l'allotjament.
+· 28 de novembre de 2026.
+
+Tasca 3:
+· Fer la maleta. 
+· 29 de novembre de 2026.
+
+<img width="1920" height="1080" alt="Captura de pantalla (33)" src="https://github.com/user-attachments/assets/713429f5-4320-44a6-80b1-9c085d8d3e68" />
+
+3.9. Comparteix el calendari amb el company, amb permisos per veure tots els detalls.
+
+Mira a l'esquerra de Google Calendari, on surt la llista dels teus calendaris fins a trobar el que es diu CALENDARI_VICTOR_DAVID_TARQUI_CALLE.
+
+<img width="1920" height="1080" alt="Captura de pantalla (34)" src="https://github.com/user-attachments/assets/c3caaee9-3885-4b62-b26e-cf9d145feb8c" />
+
+Quan el tinguis localitzat els tres punts que apareixen a la dreta, aquí fes clic a Configuració ús compartit.
+
+<img width="1920" height="1080" alt="Captura de pantalla (35)" src="https://github.com/user-attachments/assets/d7ab3099-c72d-4734-aaf8-b03790b3e907" />
+
+A dins baixem fins on posa Comparteix amb persones o grups determinats.
+
+<img width="1920" height="1080" alt="Captura de pantalla (36)" src="https://github.com/user-attachments/assets/e81e715a-7ce0-4fe7-8ca9-251eca8499aa" />
+
+En d'Afegir persones i grups em descriví el correu del nostre company i tria l'opció Veure tots els detalls de l'esdeveniment, finalment li donem a enviar.
+
+<img width="1920" height="1080" alt="Captura de pantalla (37)" src="https://github.com/user-attachments/assets/1565a4e4-4be0-4296-842a-8ae843a5776f" />
+
+I lla estaria enviada correctament amb els canvis que demanava.
+
+<img width="1920" height="1080" alt="Captura de pantalla (38)" src="https://github.com/user-attachments/assets/bfa07a57-16c1-4d1b-8b62-e682c204254d" />
